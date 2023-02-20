@@ -1,4 +1,4 @@
-# SSE MSc Economics Thesis on Prosper Loan Data
+# SSE MSc Economics Thesis on Machine Learning Methods for Demand Estimation
 
 # Jay Lee, Stockholm School of Economics
 
